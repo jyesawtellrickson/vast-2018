@@ -1,0 +1,11 @@
+*.DS_Store
+*.ipynb_checkpoints/*
+*.doc
+*.txt
+*.xml
+*.thmx
+*.htm
+
+# Data files
+*.csv
+*.jpg
